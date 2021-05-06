@@ -1,0 +1,5 @@
+---
+applications:
+ - name: tareas-api-andres
+   random-route: true
+   memory: 128M
